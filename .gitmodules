@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/Evitalires/ColombiaSolYSelvaBackend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Lilisp16/ecommerce_ColombiaSolySelva.git
